@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const worksData = [
         { title: "Student Register", img: "StudentRegister.JPG", alt: "Student Register" },
         { title: "Figma", img: "Figma.JPG", alt: "Figma" },
-        { title: "Queueing", img: "Queue.PNG", alt: "Queueing" }
+        { title: "Queueing", img: "Queue.JPG", alt: "Queueing" }
     ];
     let workIndex = 0;
     function updateWorkCarousel() {
